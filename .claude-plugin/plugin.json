@@ -1,0 +1,11 @@
+{
+  "name": "misc",
+  "version": "1.0.0",
+  "description": "Miscellaneous skills - terminal UI design & copywriting",
+  "author": {
+    "name": "Ladislav Martincik",
+    "url": "https://github.com/iamladi"
+  },
+  "license": "MIT",
+  "keywords": ["misc", "tui", "copywriting"]
+}
