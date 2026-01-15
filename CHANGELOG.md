@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.1] - 2026-01-15
+
+### Fixed
+- **conversion-auditor**: Clarified scoring math in audit output template
+  - Added Score column to Behavioral Tactics table (6 tactics × 5 points = /30)
+  - Changed output format to show RAW TOTAL (/230) before OVERALL SCORE (/100)
+  - Added explicit calculation notes for each section
+  - Removes ambiguity flagged in code review (sections summed to 230 but template showed /100)
+
 ## [1.3.0] - 2026-01-15
 
 ### Added
