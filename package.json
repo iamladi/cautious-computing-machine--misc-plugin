@@ -1,7 +1,7 @@
 {
   "name": "misc-plugin",
-  "version": "1.1.0",
-  "description": "Miscellaneous skills - terminal UI design & copywriting",
+  "version": "1.2.0",
+  "description": "Miscellaneous skills - terminal UI design, copywriting & persuasion frameworks",
   "private": true,
   "type": "module",
   "scripts": {
