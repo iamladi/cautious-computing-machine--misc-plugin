@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.0] - 2026-01-15
+
+### Added
+- **SEO/pSEO skill** (`/seo`) - Comprehensive programmatic SEO for auditing and architecting sites at scale (100k+ pages)
+- **5 new SEO agents** for specialized tasks:
+  - `seo-auditor` - Technical SEO audit of codebases (metadata, schemas, canonicals, OG tags, Core Web Vitals patterns)
+  - `seo-architect` - Plan pSEO systems (data models, URL structures, template patterns, build strategies)
+  - `schema-advisor` - Structured data specialist (JSON-LD templates for Article, FAQ, Product, LocalBusiness, etc.)
+  - `content-strategist` - Content quality guardian (thin content detection, duplication, keyword cannibalization)
+  - `internal-linking-planner` - Link architecture (hub-spoke structures, breadcrumbs, related pages, topical clusters)
+
+### Features
+- Framework-agnostic (works with Next.js, Astro, Nuxt, or any stack)
+- Full lifecycle support (audit existing sites or architect new pSEO systems)
+- All levels covered (code implementation to content strategy)
+- Optional integrations (Ahrefs, Semrush, GSC when env vars available)
+- Quality guardrails for preventing thin content, duplication, and cannibalization at scale
+
 ## [1.2.0] - 2026-01-15
 
 ### Added
