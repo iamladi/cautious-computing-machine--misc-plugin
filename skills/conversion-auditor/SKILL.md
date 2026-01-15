@@ -97,16 +97,16 @@ Does the copy connect emotionally through these 5 hooks?
 
 ### Section 5: BEHAVIORAL TACTICS
 
-Check for research-backed psychology tactics:
+Check for research-backed psychology tactics (5 points each):
 
-| Tactic | Present? | Issue if Missing |
-|--------|----------|------------------|
-| Loss framing | Y/N | "Stop losing X" > "Get X" |
-| Specific numbers | Y/N | "1,247" > "thousands" |
-| Progress indicators | Y/N | Show momentum/completion |
-| Similarity signals | Y/N | "For teams like yours" |
-| "Because" reasoning | Y/N | Reason triggers compliance |
-| Foot-in-door sequence | Y/N | Small ask before big ask |
+| Tactic | Present? | Score | Issue if Missing |
+|--------|----------|-------|------------------|
+| Loss framing | Y/N | /5 | "Stop losing X" > "Get X" |
+| Specific numbers | Y/N | /5 | "1,247" > "thousands" |
+| Progress indicators | Y/N | /5 | Show momentum/completion |
+| Similarity signals | Y/N | /5 | "For teams like yours" |
+| "Because" reasoning | Y/N | /5 | Reason triggers compliance |
+| Foot-in-door sequence | Y/N | /5 | Small ask before big ask |
 
 ## Output Format
 
@@ -114,17 +114,17 @@ Check for research-backed psychology tactics:
 CONVERSION AUDIT REPORT
 =======================
 
-OVERALL SCORE: [X]/100
-
 SECTION SCORES
 --------------
-Schwartz Alignment:    [X]/40
-Cialdini Principles:   [X]/70 (10 per principle)
-NEW/EASY/SAFE/BIG:     [X]/40
-Emotional Hooks:       [X]/50
-Behavioral Tactics:    [X]/30
+Schwartz Alignment:    [X]/40  (4 elements × 10)
+Cialdini Principles:   [X]/70  (7 principles × 10)
+NEW/EASY/SAFE/BIG:     [X]/40  (4 elements × 10)
+Emotional Hooks:       [X]/50  (5 hooks × 10)
+Behavioral Tactics:    [X]/30  (6 tactics × 5)
+                       -------
+RAW TOTAL:             [X]/230
 
-NORMALIZED SCORE:      [X]/100
+OVERALL SCORE:         [X]/100 (raw total ÷ 2.3)
 
 TOP 3 WINS
 ----------
