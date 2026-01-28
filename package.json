@@ -1,6 +1,6 @@
 {
   "name": "misc-plugin",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Miscellaneous skills - terminal UI, copywriting, persuasion frameworks & SEO/pSEO",
   "private": true,
   "type": "module",
