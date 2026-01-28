@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.0] - 2026-01-28
+
+### Added
+- **clear-writing skill** - Transform any writing into clear, engaging prose
+  - **Strunk's complete 18 rules** organized in two parts:
+    - Rules 1-7: Elementary Rules of Usage (grammar, punctuation)
+    - Rules 8-18: Elementary Principles of Composition (structure, voice)
+  - **Comprehensive AI pattern elimination** based on Wikipedia's AI Cleanup patterns:
+    - Regression to the mean detection
+    - Puffery words and overused AI vocabulary
+    - Empty -ing constructions and superficial analysis
+    - Zombie nouns (nominalizations)
+    - Rule-of-three abuse, negative parallelisms, elegant variation
+    - Hedging language, didactic disclaimers, chatbot artifacts
+    - Formatting artifacts (boldface, em dashes, emojis)
+  - **Engagement techniques**:
+    - BLUF (Bottom Line Up Front)
+    - SCR/SCQA patterns for narrative flow
+    - Five hook types for openings
+    - 1-3-1 rhythm and sentence length audit
+    - Scanner's Contract for informative headers
+  - **Reference files** in `elements-of-style/` subdirectory:
+    - `02-rules-of-usage.md` - Grammar and punctuation fundamentals
+    - `03-principles-of-composition.md` - Structure and voice
+    - `04-matters-of-form.md` - Formatting conventions
+    - `05-words-commonly-misused.md` - Word choice guide (50+ entries)
+
+### Purpose
+Fills gap between marketing-focused copywriting skills and general writing needs. Comprehensive clarity and de-slopping tool for technical reports, documentation, emails, and general prose. Based on Strunk's Elements of Style and Wikipedia's Signs of AI Writing.
+
 ## [1.3.1] - 2026-01-15
 
 ### Fixed
